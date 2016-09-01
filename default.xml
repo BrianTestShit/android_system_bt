@@ -281,13 +281,12 @@
   <project path="vendor/cm" name="android_vendor_resurrection" remote="rr" />
 
 <!-- CMSDK PROJECTS -->
-<!-- Disable CMSDK for now
+<!-- Disable CMSDK for now-->
   <project path="external/cmsdk-api-coverage" name="CyanogenMod/android_external_cmsdk-api-coverage" />
   <project path="frameworks/opt/hardware" name="CyanogenMod/android_frameworks_opt_hardware" />
   <project path="hardware/cyanogen" name="CyanogenMod/android_hardware_cyanogen" />
   <project path="prebuilts/cmsdk" name="CyanogenMod/android_prebuilts_cmsdk" clone-depth="1" revision="master" />
   <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" />
--->
 <!-- END CMSDK PROJECTS -->
 
 <!-- CMSDK SAMPLES -->
