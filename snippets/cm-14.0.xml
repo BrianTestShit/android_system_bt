@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-]
 
   <!-- Device-specific HALs -->
   <include name="snippets/hal_cm_all.xml" />
@@ -67,7 +66,6 @@
   <project path="packages/themes/HexoLibre" name="CyanogenMod/android_packages_themes_HexoLibre" groups="themes" remote="github" />
   <project path="prebuilts/cmsdk" name="CyanogenMod/android_prebuilts_cmsdk" clone-depth="1" revision="master" remote="github" />
   <project path="system/extras/su" name="CyanogenMod/android_system_extras_su" remote="github" />
-  <project path="vendor/cm" name="android_vendor_resurrection" remote="rr" />
   <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" remote="github" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/OpenWeatherMapProvider" name="CyanogenMod/android_packages_apps_OpenWeatherMapProvider" remote="github" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/WundergroundWeatherProvider" name="CyanogenMod/android_packages_apps_WundergroundWeatherProvider" remote="github" />
@@ -91,3 +89,4 @@
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" groups="qcom" remote="github" />
   <project path="vendor/qcom/opensource/bluetooth" name="CyanogenMod/android_packages_apps_BluetoothExt" remote="github" />
 </manifest>
+
