@@ -2,4 +2,5 @@
 <manifest> 
   <project path="packages/apps/Settings" name="Resurrection_packages_apps_Settings" remote="rr"/>
   <project path="vendor/cm" name="android_vendor_resurrection" remote="rr" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="rr" />
 </manifest>
