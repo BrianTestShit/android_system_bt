@@ -2,5 +2,5 @@
 <manifest> 
   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" groups="pdk-fs" />
   <project path="vendor/cm" name="android_vendor_resurrection" remote="rr" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="rr" />
+  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" groups="pdk-fs" />
 </manifest>
