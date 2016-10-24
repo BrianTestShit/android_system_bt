@@ -49,7 +49,6 @@
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
   <project path="packages/apps/FMRadio" name="CyanogenMod/android_packages_apps_FMRadio" />
   <project path="packages/apps/Gello" name="CyanogenMod/android_packages_apps_Gello" />
-  <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/Profiles" name="CyanogenMod/android_packages_apps_Profiles" />
   <project path="packages/apps/Screencast" name="CyanogenMod/android_packages_apps_Screencast" />
   <project path="packages/apps/SetupWizard" name="CyanogenMod/android_packages_apps_SetupWizard" />
