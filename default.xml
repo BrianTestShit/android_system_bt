@@ -20,7 +20,7 @@
 
   <remote  name="rr"
 	   fetch="https://github.com/ResurrectionRemix"
-	   revision="nougat" />
+	   revision="nougat7.1" />
 
   <!-- AOSP Projects -->
 
