@@ -14,11 +14,7 @@ How To Build Resurrection Remix ROM for your device - Tutorial
 --------
 ### New Way to set up and build Resurrection Remix.
 
-##### Simply copy and paste this in a terminal window:
-
-     $ git clone https://github.com/ResurrectionRemix/ResurrectedScripts.git -b nougat scripts
-     $ cd scripts
-     $ ./setup.sh
+##### refer to github.com/akhilnarang/scripts to setup build env
 
 Once done, the source code should be already set up and you can head on to build RR by using the build script in the root of source code
  
