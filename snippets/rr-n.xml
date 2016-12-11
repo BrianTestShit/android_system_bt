@@ -17,6 +17,6 @@
   <project path="frameworks/av" name="frameworks_av" remote="rr" />
   <project path="frameworks/base" name="ResurrectionRemix/private_frameworks_base" remote="private" revision="nougat-oms" />
   <project path="frameworks/native" name="frameworks_native" remote="rr" revision="nougat-oms" />
-  <project path="packages/apps/Settings" name="private_packages_apps_Settings" remote="rr" revision="nougat-oms" />
+  <project path="packages/apps/Settings" name="ResurrectionRemix/private_packages_apps_Settings" remote="private" revision="nougat-oms" />
   <project path="packages/apps/masquerade" name="nicholaschum/masquerade" remote="github" revision="master" />
 </manifest>
