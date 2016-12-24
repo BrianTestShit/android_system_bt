@@ -21,4 +21,5 @@
   <project path="packages/apps/masquerade" name="nicholaschum/masquerade" remote="github" revision="master" />
   <project path="external/skia" name="external_skia" remote="rr" />
   <project path="art" name="art" remote="rr" />
+  <project path="vendor/cmsdk" name="cm_platform_sdk" remote="rr" />
 </manifest>
