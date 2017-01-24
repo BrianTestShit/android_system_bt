@@ -25,6 +25,8 @@
   <project path="external/skia" name="external_skia" remote="rr" />
   <project path="art" name="art" remote="rr" />
   <project path="vendor/cmsdk" name="cm_platform_sdk" remote="rr" />
+  <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="rr" />
+  <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="rr" />
 
   <!-- OmniRom additions -->
   <project name="omnirom/android_packages_apps_OmniStyle" path="packages/apps/OmniStyle" remote="github" revision="android-7.1" />
